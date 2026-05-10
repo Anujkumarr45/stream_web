@@ -7,7 +7,7 @@ myclient=pymongo.MongoClient("mongodb://127.0.0.1:27017/?directConnection=true&s
 mydb=myclient["Bitcoin"]
 my=mydb["system"]
 c1,c2,c3,c4=st.columns(4)
-st.title("please signin first to view your profile")
+st.error("please signin first to view your profile")
 if 'name' not in st.session_state:
     st.session_state['name']=""
 
