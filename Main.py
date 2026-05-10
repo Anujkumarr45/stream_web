@@ -1,6 +1,6 @@
 import streamlit as st
 import pymongo
-#myclient=pymongo.MongoClient("mongodb+srv://anujkumarr45:Anuj@5965@cluster0.ukwltkn.mongodb.net/?appName=Cluster0")
+#myclient=pymongo.MongoClient("mongodb+srv://lalu6365d_db_user:3REHd1eJzvesy46L@cluster0.kdswfix.mongodb.net/?appName=Cluster0")
 #mydb=myclient["Bitcoin"]
 #my=mydb["system"]
 import time
