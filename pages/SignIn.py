@@ -1,6 +1,6 @@
 import streamlit as st
 import pymongo
-myclient=pymongo.MongoClient("mongodb+srv://anujkumarr45:Anuj@5965@cluster0.ukwltkn.mongodb.net/?appName=Cluster0")
+myclient=pymongo.MongoClient("mongodb+srv://anujkumarr45:75lTY2QWHmIYe9AO@cluster0.ukwltkn.mongodb.net/?appName=Cluster0")
 mydb=myclient["Bitcoin"]
 my=mydb["system"]
 st.title(":blue[Sign In]")
