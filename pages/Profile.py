@@ -3,7 +3,7 @@ import time
 with st.spinner("Loading..."):
     time.sleep(1)
 import pymongo
-myclient=pymongo.MongoClient("mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.8.2")
+myclient=pymongo.MongoClient("mongodb+srv://anujkumarr45:Anuj@5965@cluster0.ukwltkn.mongodb.net/?appName=Cluster0")
 mydb=myclient["Bitcoin"]
 my=mydb["system"]
 c1,c2,c3,c4=st.columns(4)
