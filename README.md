@@ -80,6 +80,8 @@ This project was created to practice and understand:
 Screenshot
 -------------------------------------------------------------------------------------
 
+![image alt](https://github.com/Anujkumarr45/stream_web/blob/4bb9da5bc5e06772c89d14a8aa03335ad0a54ebb/Screenshot%20(4).jpeg)
+
 
 
 
