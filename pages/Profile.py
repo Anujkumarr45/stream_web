@@ -17,7 +17,7 @@ if 'password' not in st.session_state:
     
 name=st.session_state.get('name')
 password=st.session_state.get('password')
-st.success(f"Welcome : {name}")
+#st.success(f"Welcome : {name}")
 
 if c1.button("See Profile"):
    str1=st.session_state['name']
