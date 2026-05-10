@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import pymongo
-myclient=pymongo.MongoClient("mongodb+srv://anujkumarr45:75lTY2QWHmIYe9AO@cluster0.ukwltkn.mongodb.net/?appName=Cluster0")
+myclient=pymongo.MongoClient("mongodb+srv://lalu6365d_db_user:3REHd1eJzvesy46L@cluster0.kdswfix.mongodb.net/?appName=Cluster0")
 mydb=myclient["Bitcoin"]
 my=mydb["system"]
 st.title(":blue[Change Password]")
