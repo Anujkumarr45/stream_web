@@ -1,4 +1,4 @@
-🤖 AI-Powered CV Analysis
+🤖 𝔸𝕀-ℙ𝕠𝕨𝕖𝕣𝕖𝕕 ℂ𝕍 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤
 
 A smart and efficient project built using Python that leverages Artificial Intelligence (AI) and Natural Language Processing (NLP) to analyze resumes (CVs).
 This project helps recruiters and students by automatically extracting key details from CVs and matching them with job requirements.
