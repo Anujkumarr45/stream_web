@@ -17,7 +17,7 @@ if st.button(":red[sign in]"):
         st.success(f"Welcome:{data['name']}")
         valid=valid+1
         st.session_state['name']=data['name']
-        st.switch_page("pages\Profile.py")
+        st.switch_page("pages/Profile.py")
 
     if valid==0:
         st.error("Invalid Login!!!")
