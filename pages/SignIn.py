@@ -20,6 +20,6 @@ if st.button(":red[sign in]"):
         st.switch_page("pages/Profile.py")
 
     if valid==0:
-        st.error("Invalid Login!!!")
+        st.error("Login Failed !!!")
     
 
